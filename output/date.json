@@ -1,0 +1,1296 @@
+{
+    "dates": [
+        {
+            "year": "-20000",
+            "event": "Premi\u00e8res peintures rupestres en France et en Espagne"
+        },
+        {
+            "year": "-8000",
+            "event": "D\u00e9but de l\u2019agriculture au Proche-Orient"
+        },
+        {
+            "year": "-5000",
+            "event": "Installation des premi\u00e8res communaut\u00e9s agricoles en Egypte"
+        },
+        {
+            "year": "-4000",
+            "event": "D\u00e9but de l\u2019\u00e2ge du bronze au Proche-Orient"
+        },
+        {
+            "year": "-3100",
+            "event": "Le roi M\u00e9n\u00e8s unit la Haute et la Basse Egypte"
+        },
+        {
+            "year": "-3000",
+            "event": "Fondation des principales cit\u00e9s sum\u00e9riennes"
+        },
+        {
+            "year": "-3000",
+            "event": "D\u00e9but de la poterie au Mexique"
+        },
+        {
+            "year": "-2685",
+            "event": "D\u00e9but du Moyen Empire en Egypte"
+        },
+        {
+            "year": "-2600",
+            "event": "D\u00e9but de la civilisation minoenne en Cr\u00e8te"
+        },
+        {
+            "year": "-2200",
+            "event": "Premi\u00e8re dynastie chinoise (Xia)"
+        },
+        {
+            "year": "-2000",
+            "event": "D\u00e9but du travail des m\u00e9taux au P\u00e9rou"
+        },
+        {
+            "year": "-1600",
+            "event": "D\u00e9but de la civilisation myc\u00e9nienne en Gr\u00e8ce"
+        },
+        {
+            "year": "-1570",
+            "event": "D\u00e9but du Nouvel Empire en Egypte"
+        },
+        {
+            "year": "-1450",
+            "event": "Destruction de la Cr\u00e8te minoenne"
+        },
+        {
+            "year": "-1200",
+            "event": "Chute de l\u2019Empire myc\u00e9nien"
+        },
+        {
+            "year": "-900-750",
+            "event": "Cr\u00e9ation des cit\u00e9s-\u00c9tats en Gr\u00e8ce"
+        },
+        {
+            "year": "-814",
+            "event": "Fondation de Carthage par les Ph\u00e9niciens"
+        },
+        {
+            "year": "-776",
+            "event": "Premiers Jeux olympiques"
+        },
+        {
+            "year": "-753",
+            "event": "Fondation de Rome"
+        },
+        {
+            "year": "-720",
+            "event": "Essor de l\u2019Assyrie"
+        },
+        {
+            "year": "-650",
+            "event": "D\u00e9but de l\u2019\u00e2ge du fer en Chine"
+        },
+        {
+            "year": "-586",
+            "event": "Le peuple juif emmen\u00e9 en captivit\u00e9 \u00e0 Babylone"
+        },
+        {
+            "year": "-509",
+            "event": "Cr\u00e9ation de la R\u00e9publique romaine"
+        },
+        {
+            "year": "-483-221",
+            "event": "P\u00e9riode des \u00abRoyaumes combattants\u00bb en Chine"
+        },
+        {
+            "year": "-202",
+            "event": "La dynastique Han r\u00e9unifie la Chine"
+        },
+        {
+            "year": "-146",
+            "event": "La Gr\u00e8ce passe sous domination romaine"
+        },
+        {
+            "year": "-52",
+            "event": "D\u00e9faite des Gaulois devant les Romains \u00e0 Al\u00e9sia"
+        },
+        {
+            "year": "-43",
+            "event": "Les Romains envahissent l\u2019Angleterre"
+        },
+        {
+            "year": "0",
+            "event": "Le bouddhisme est introduit en Chine"
+        },
+        {
+            "year": "30",
+            "event": "L\u2019Egypte devient province romaine"
+        },
+        {
+            "year": "46",
+            "event": "D\u00e9but des voyages missionnaires de Saint Paul"
+        },
+        {
+            "year": "131",
+            "event": "Les juifs se soul\u00e8vent contre Rome"
+        },
+        {
+            "year": "238",
+            "event": "Premi\u00e8res incursions des Goths dans l\u2019Empire romain"
+        },
+        {
+            "year": "300",
+            "event": "Essor de la civilisation maya en Am\u00e9rique centrale"
+        },
+        {
+            "year": "330",
+            "event": "Constantinople devient capitale de l\u2019Empire romain d\u2019Orient"
+        },
+        {
+            "year": "370",
+            "event": "Les Huns envahissent l\u2019Europe"
+        },
+        {
+            "year": "400",
+            "event": "Etablissement des Incas sur la c\u00f4te ouest de l\u2019Am\u00e9rique du Sud"
+        },
+        {
+            "year": "407",
+            "event": "D\u00e9but Premier Empire mongol"
+        },
+        {
+            "year": "553",
+            "event": "Fin Premier Empire mongol"
+        },
+        {
+            "year": "410",
+            "event": "Pillage de Rome par les Wisigoths"
+        },
+        {
+            "year": "449",
+            "event": "Invasion de l\u2019Angleterre par les Angles et les Saxons"
+        },
+        {
+            "year": "486",
+            "event": "Fondation du royaume franc par Clovis"
+        },
+        {
+            "year": "497",
+            "event": "Conversion des Francs \u00e0 la religion chr\u00e9tienne"
+        },
+        {
+            "year": "533",
+            "event": "D\u00e9but Justinien restaure l\u2019Empire romain en Afrique du Nord"
+        },
+        {
+            "year": "552",
+            "event": "Fin Justinien restaure l\u2019Empire romain en Afrique du Nord"
+        },
+        {
+            "year": "552",
+            "event": "Introduction du bouddhisme au Japon"
+        },
+        {
+            "year": "597",
+            "event": "Mission \u00e9vang\u00e9lique de Saint Augustin en Angleterre"
+        },
+        {
+            "year": "600",
+            "event": "Apog\u00e9e de la civilisation maya"
+        },
+        {
+            "year": "624",
+            "event": "R\u00e9unification de la Chine sous la dynastie Tang"
+        },
+        {
+            "year": "641",
+            "event": "Conqu\u00eate de l\u2019Egypte par les musulmans"
+        },
+        {
+            "year": "700",
+            "event": "Essor de l\u2019Empire du Ghana"
+        },
+        {
+            "year": "711",
+            "event": "Les musulmans envahissent l\u2019Espagne"
+        },
+        {
+            "year": "732",
+            "event": "Charles Martel arr\u00eate les Arabes \u00e0 Poitiers"
+        },
+        {
+            "year": "793",
+            "event": "Premiers raids des Vikings"
+        },
+        {
+            "year": "800",
+            "event": "Charlemagne est couronn\u00e9 empereur"
+        },
+        {
+            "year": "874",
+            "event": "Les Vikings s\u2019installent en Islande"
+        },
+        {
+            "year": "907",
+            "event": "Chine"
+        },
+        {
+            "year": "911",
+            "event": "Le roi de France c\u00e8de aux Vikings le fief de Normandie"
+        },
+        {
+            "year": "920",
+            "event": "D\u00e9but Apog\u00e9e de l\u2019Empire du Ghana"
+        },
+        {
+            "year": "1050",
+            "event": "Fin Apog\u00e9e de l\u2019Empire du Ghana"
+        },
+        {
+            "year": "939",
+            "event": "Guerres civiles au Japon"
+        },
+        {
+            "year": "969",
+            "event": "Les Fatimides conqui\u00e8rent l\u2019Egypte et fondent Le Caire"
+        },
+        {
+            "year": "979",
+            "event": "R\u00e9unification de la Chine par la dynastie Song"
+        },
+        {
+            "year": "987",
+            "event": "Hugues Capet, duc de France, sacr\u00e9 roi \u00e0 Reims"
+        },
+        {
+            "year": "990",
+            "event": "Essor de l\u2019Empire inca"
+        },
+        {
+            "year": "1000",
+            "event": "D\u00e9but de l\u2019\u00e2ge du fer au Zimbabwe"
+        },
+        {
+            "year": "XIesi\u00e8cle",
+            "event": "Manco Capac, fondateur de l\u2019Empire inca, s\u2019\u00e9tablit \u00e0 Cuzco"
+        },
+        {
+            "year": "1016",
+            "event": "Le roi Knut r\u00e8gne sur l\u2019Angleterre, le Danemark, et la Norv\u00e8ge"
+        },
+        {
+            "year": "1054",
+            "event": "S\u00e9paration des Eglises chr\u00e9tiennes d\u2019Orient et d\u2019Occident"
+        },
+        {
+            "year": "1066",
+            "event": "Guillaume de Normandie bat les Anglo-Saxons \u00e0 Hastings"
+        },
+        {
+            "year": "1095",
+            "event": "Le pape pr\u00eache la 1\u00e8re croisade"
+        },
+        {
+            "year": "1147",
+            "event": "D\u00e9but 2e croisade"
+        },
+        {
+            "year": "1149",
+            "event": "Fin 2e croisade"
+        },
+        {
+            "year": "1150",
+            "event": "Cr\u00e9ation des cit\u00e9s-Etats par la civilisation yoruba (Nigeria)"
+        },
+        {
+            "year": "1151",
+            "event": "Fin de l\u2019Empire tolt\u00e8que au Mexique"
+        },
+        {
+            "year": "1156",
+            "event": "D\u00e9but Guerres civiles au Japon"
+        },
+        {
+            "year": "1189",
+            "event": "Fin Guerres civiles au Japon"
+        },
+        {
+            "year": "1174",
+            "event": "Saladin conquiert l\u2019Egypte"
+        },
+        {
+            "year": "1187",
+            "event": "Saladin s\u2019empare de J\u00e9rusalem"
+        },
+        {
+            "year": "1189",
+            "event": "D\u00e9but 3e croisade"
+        },
+        {
+            "year": "1192",
+            "event": "Fin 3e croisade"
+        },
+        {
+            "year": "1190",
+            "event": "Temujin f\u00e9d\u00e8re les clans mongols, commence \u00e0 cr\u00e9er son empire en Asie orientale"
+        },
+        {
+            "year": "1198",
+            "event": "Innocent III est \u00e9lu pape"
+        },
+        {
+            "year": "1200",
+            "event": "Fondation du royaume du Mali en Afrique occidentale Essor des cit\u00e9s-Etats de la civilisation haoussa"
+        },
+        {
+            "year": "1202",
+            "event": "D\u00e9but La 4e croisade s\u2019empare de Constantinople"
+        },
+        {
+            "year": "1204",
+            "event": "Fin La 4e croisade s\u2019empare de Constantinople"
+        },
+        {
+            "year": "1206",
+            "event": "Temujin prend le nom de \u00ab\u00a0Gengis Khan\u00a0\u00bb"
+        },
+        {
+            "year": "1215",
+            "event": "Jean sans Terre, roi d\u2019Angleterre, promulgue la Grande Charte"
+        },
+        {
+            "year": "1217",
+            "event": "D\u00e9but 5e croisade"
+        },
+        {
+            "year": "1221",
+            "event": "Fin 5e croisade"
+        },
+        {
+            "year": "1228",
+            "event": "D\u00e9but 6e croisade"
+        },
+        {
+            "year": "1229",
+            "event": "Fin 6e croisade"
+        },
+        {
+            "year": "1234",
+            "event": "Les Mongols renversent l\u2019Empire chinois"
+        },
+        {
+            "year": "1240",
+            "event": "Effondrement de l\u2019Empire du Ghana"
+        },
+        {
+            "year": "1248",
+            "event": "D\u00e9but 7e croisade"
+        },
+        {
+            "year": "1254",
+            "event": "Fin 7e croisade"
+        },
+        {
+            "year": "1250",
+            "event": "Effondrement du pouvoir imp\u00e9rial en Allemagne et en Italie \u00e0 la mort de Frederic II"
+        },
+        {
+            "year": "1270",
+            "event": "8e croisade"
+        },
+        {
+            "year": "1281",
+            "event": "Echec de la tentative de conqu\u00eate du Japon par les Mongols"
+        },
+        {
+            "year": "1299",
+            "event": "Fondation de l\u2019Empire turc"
+        },
+        {
+            "year": "1300",
+            "event": "Emergence du royaume d\u2019Ife (royaume du B\u00e9nin, Afrique occidentale)"
+        },
+        {
+            "year": "1305",
+            "event": "Le pape s\u2019installe \u00e0 Avignon"
+        },
+        {
+            "year": "1325",
+            "event": "Fondation par les Azt\u00e8ques de la cit\u00e9 de Tenochtitlan (Mexico)"
+        },
+        {
+            "year": "1337",
+            "event": "D\u00e9but de la guerre de Cent Ans entre la France et l\u2019Angleterre"
+        },
+        {
+            "year": "1348",
+            "event": "La peste noire se r\u00e9pand en Europe"
+        },
+        {
+            "year": "1356",
+            "event": "Les Anglais battent les Fran\u00e7ais \u00e0 Poitiers"
+        },
+        {
+            "year": "1363",
+            "event": "Tamerlan, conqu\u00e9rant turc, s\u2019attaque \u00e0 l\u2019Empire mongol"
+        },
+        {
+            "year": "1368",
+            "event": "Fondation de la dynastie Ming en Chine"
+        },
+        {
+            "year": "1370",
+            "event": "Expansion du royaume Chimu (nord du P\u00e9rou) "
+        },
+        {
+            "year": "1375",
+            "event": "Essor de l\u2019Empire azt\u00e8que"
+        },
+        {
+            "year": "1378",
+            "event": "D\u00e9but Grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
+        },
+        {
+            "year": "1417",
+            "event": "Fin Grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
+        },
+        {
+            "year": "1385",
+            "event": "Ind\u00e9pendance du Portugal"
+        },
+        {
+            "year": "1398",
+            "event": "Mise \u00e0 sac de Delhi par Tamerlan"
+        },
+        {
+            "year": "1401",
+            "event": "Tamerlan conquiert Damas et Bagdad"
+        },
+        {
+            "year": "1402",
+            "event": "Tamerlan envahit l\u2019Empire ottoman"
+        },
+        {
+            "year": "1415",
+            "event": "Les Anglais battent les Fran\u00e7ais \u00e0 Azincourt"
+        },
+        {
+            "year": "1415",
+            "event": "D\u00e9but de l\u2019empire colonial portugais en Afrique"
+        },
+        {
+            "year": "1421",
+            "event": "P\u00e9kin devient capitale de la Chine"
+        },
+        {
+            "year": "1429",
+            "event": "Jeanne d\u2019Arc d\u00e9libre Orl\u00e9ans et fait sacrer Charles VII \u00e0 Reims"
+        },
+        {
+            "year": "1438",
+            "event": "Etablissement de l\u2019Empire Inca au P\u00e9rou"
+        },
+        {
+            "year": "1440",
+            "event": "D\u00e9but R\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
+        },
+        {
+            "year": "1469",
+            "event": "Fin R\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
+        },
+        {
+            "year": "1450",
+            "event": "Conqu\u00eate du royaume Chimu par les Incas"
+        },
+        {
+            "year": "1450",
+            "event": "Apog\u00e9e du royaume Songha\u00ef en Afrique occidentale"
+        },
+        {
+            "year": "1453",
+            "event": "L\u2019Angleterre perd toutes ses possessions fran\u00e7aises sauf Calais"
+        },
+        {
+            "year": "1453",
+            "event": "Les Turcs Ottomans s\u2019emparent de Constantinople qui devient Istanbul"
+        },
+        {
+            "year": "1455",
+            "event": "D\u00e9but Guerre des Deux Roses en Angleterre"
+        },
+        {
+            "year": "1485",
+            "event": "Fin Guerre des Deux Roses en Angleterre"
+        },
+        {
+            "year": "1482",
+            "event": "Les Portugais colonisent la C\u00f4te-de-l\u2019or (ancien nom du Gh\u00e2na)"
+        },
+        {
+            "year": "1492",
+            "event": "Reconqu\u00eate de l\u2019Espagne musulmane par les rois catholiques Isabelle et Ferdinand"
+        },
+        {
+            "year": "1493",
+            "event": "Installation de premiers colons espagnols dans le Nouveau Monde (Cuba)"
+        },
+        {
+            "year": "1510",
+            "event": "Premi\u00e8re importation d\u2019esclaves africains en Am\u00e9rique"
+        },
+        {
+            "year": "1517",
+            "event": "Martin Luther affiche ses \u00ab\u00a095 th\u00e8ses\u00a0\u00bb sur la porte de l\u2019\u00e9glise de Wittenberg"
+        },
+        {
+            "year": "1521",
+            "event": "Cortez s\u2019empare de la capitale des Azt\u00e8ques, Tenochtitlan"
+        },
+        {
+            "year": "1526",
+            "event": "Fondation de l\u2019Empire moghol, des princes musulmans, au nord de l\u2019Inde"
+        },
+        {
+            "year": "1529",
+            "event": "Echec des Turcs devant Vienne"
+        },
+        {
+            "year": "1531",
+            "event": "D\u00e9but Pizarre fait la conqu\u00eate du P\u00e9rou"
+        },
+        {
+            "year": "1535",
+            "event": "Fin Pizarre fait la conqu\u00eate du P\u00e9rou"
+        },
+        {
+            "year": "1532",
+            "event": "Calvin lance le mouvement protestant en France"
+        },
+        {
+            "year": "1533",
+            "event": "Ivan le Terrible tsar de Russie"
+        },
+        {
+            "year": "1535",
+            "event": "Les Espagnols explorent le Chili"
+        },
+        {
+            "year": "1545",
+            "event": "Le concile de Trente marque le d\u00e9but de la Contre-R\u00e9forme"
+        },
+        {
+            "year": "1546",
+            "event": "Destruction du royaume du Mali par les Songha\u00efs"
+        },
+        {
+            "year": "1570",
+            "event": "Apog\u00e9e de l\u2019Empire bornou au Soudan"
+        },
+        {
+            "year": "1562",
+            "event": "D\u00e9but Guerres de religion en France"
+        },
+        {
+            "year": "1598",
+            "event": "Fin Guerres de religion en France"
+        },
+        {
+            "year": "1571",
+            "event": "Bataille de L\u00e9pante Fin de l\u2019h\u00e9g\u00e9monie maritime turque en M\u00e9diterran\u00e9e"
+        },
+        {
+            "year": "1571",
+            "event": "Premi\u00e8res colonies portugaises sur la c\u00f4te de l\u2019Angola"
+        },
+        {
+            "year": "1588",
+            "event": "L\u2019invincible Armada, flotte espagnole d\u00e9faite par les Anglais"
+        },
+        {
+            "year": "1589",
+            "event": "D\u00e9but R\u00e8gne de Henri IV"
+        },
+        {
+            "year": "1610",
+            "event": "Fin R\u00e8gne de Henri IV"
+        },
+        {
+            "year": "1607",
+            "event": "Fondation de la premi\u00e8re colonie anglaise en Am\u00e9rique du Nord"
+        },
+        {
+            "year": "1608",
+            "event": "Fondation de Qu\u00e9bec par le Fran\u00e7ais Champlain"
+        },
+        {
+            "year": "1618",
+            "event": "D\u00e9but Guerre de Trente Ans"
+        },
+        {
+            "year": "1648",
+            "event": "Fin Guerre de Trente Ans"
+        },
+        {
+            "year": "1620",
+            "event": "Les colons du Mayflower d\u00e9barquent \u00e0 Plymouth, dans le Massachusetts (Am\u00e9rique)"
+        },
+        {
+            "year": "1626",
+            "event": "Fondation de Nouvelle-Amsterdam par les colons hollandais, future New-York"
+        },
+        {
+            "year": "1635",
+            "event": "Les Fran\u00e7ais en Martinique et \u00e0 la Guadeloupe"
+        },
+        {
+            "year": "1643",
+            "event": "D\u00e9but R\u00e8gne de Louis XIV"
+        },
+        {
+            "year": "1715",
+            "event": "Fin R\u00e8gne de Louis XIV"
+        },
+        {
+            "year": "1644",
+            "event": "Les Mandchous fondent la dynastie Qing en Chine"
+        },
+        {
+            "year": "1649",
+            "event": "R\u00e9volution anglaise"
+        },
+        {
+            "year": "1652",
+            "event": "Fondation de la colonie du Cap (Afrique du Sud) par les Hollandais"
+        },
+        {
+            "year": "1654",
+            "event": "Les Fran\u00e7ais occupent Madagascar et l\u2019\u00eele Bourbon (\u00eele de la R\u00e9union)"
+        },
+        {
+            "year": "1673",
+            "event": "D\u00e9but de la conqu\u00eate coloniale fran\u00e7aise en Afrique de l\u2019Ouest"
+        },
+        {
+            "year": "1685",
+            "event": "R\u00e9vocation de l\u2019\u00e9dit de Nantes"
+        },
+        {
+            "year": "1689",
+            "event": "Angleterre"
+        },
+        {
+            "year": "1690",
+            "event": "Les Anglais fondent Calcutta"
+        },
+        {
+            "year": "1694",
+            "event": "D\u00e9but du r\u00e8gne personnel de Pierre le Grand en Russie"
+        },
+        {
+            "year": "1701",
+            "event": "D\u00e9but Guerres de succession d\u2019Espagne"
+        },
+        {
+            "year": "1713",
+            "event": "Fin Guerres de succession d\u2019Espagne"
+        },
+        {
+            "year": "1707",
+            "event": "Acte d\u2019union de l\u2019Angleterre et de l\u2019Ecosse"
+        },
+        {
+            "year": "1707",
+            "event": "Effondrement de l\u2019Empire moghol"
+        },
+        {
+            "year": "1713",
+            "event": "Trait\u00e9 d\u2019Utrecht"
+        },
+        {
+            "year": "1740",
+            "event": "D\u00e9but Guerre de succession d\u2019Autriche"
+        },
+        {
+            "year": "1748",
+            "event": "Fin Guerre de succession d\u2019Autriche"
+        },
+        {
+            "year": "1756",
+            "event": "D\u00e9but de la guerre de Sept Ans"
+        },
+        {
+            "year": "1759",
+            "event": "Les Anglais prennent aux Fran\u00e7ais le Qu\u00e9bec Les colons d\u2019Am\u00e9rique s\u2019opposent aux taxes d\u2019importation"
+        },
+        {
+            "year": "1775",
+            "event": "D\u00e9but Guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
+        },
+        {
+            "year": "1783",
+            "event": "Fin Guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
+        },
+        {
+            "year": "1776",
+            "event": "D\u00e9claration d\u2019ind\u00e9pendance am\u00e9ricaine"
+        },
+        {
+            "year": "1783",
+            "event": "Par \u00ab\u00a0l\u2019India Act\u00a0\u00bb, le gouvernement britannique prend le contr\u00f4le de l\u2019Inde"
+        },
+        {
+            "year": "1788",
+            "event": "Les premiers colons anglais s\u2019installent en Australie"
+        },
+        {
+            "year": "1788",
+            "event": "Cr\u00e9ation par les Anglais de Freetown, dans la Sierra Leone, qui re\u00e7oit d\u2019anciens esclaves affranchis"
+        },
+        {
+            "year": "1789",
+            "event": "D\u00e9but de la R\u00e9volution fran\u00e7aise"
+        },
+        {
+            "year": "1789",
+            "event": "Washington, premier pr\u00e9sident des Etats-Unis"
+        },
+        {
+            "year": "1791",
+            "event": "R\u00e9volte d\u2019esclaves \u00e0 Ha\u00efti"
+        },
+        {
+            "year": "1798",
+            "event": "Bonaparte en Egypte"
+        },
+        {
+            "year": "1803",
+            "event": "Bonaparte vend la Louisiane aux Etats-Unis"
+        },
+        {
+            "year": "1804",
+            "event": "Napol\u00e9on proclam\u00e9 empereur ; bataille d\u2019Austerlitz"
+        },
+        {
+            "year": "1805",
+            "event": "Bataille de Trafalgar"
+        },
+        {
+            "year": "1811",
+            "event": "Mohammed-Ali prend le pouvoir en Egypte"
+        },
+        {
+            "year": "1812",
+            "event": "Campagne de Russie"
+        },
+        {
+            "year": "1815",
+            "event": "Napol\u00e9on battu \u00e0 Waterloo ; abdication de Napol\u00e9on"
+        },
+        {
+            "year": "1818",
+            "event": "Fondation de l\u2019Empire zoulou en Afrique du Sud"
+        },
+        {
+            "year": "1819",
+            "event": "Fondation de Singapour par les Anglais"
+        },
+        {
+            "year": "1819",
+            "event": "L\u2019Espagne c\u00e8de la Floride aux Etats-Unis"
+        },
+        {
+            "year": "1822",
+            "event": "Fondation du Liberia, terre d\u2019accueil des esclaves affranchis"
+        },
+        {
+            "year": "1830",
+            "event": "R\u00e9volution en France, Allemagne, Pologne et Italie"
+        },
+        {
+            "year": "1830",
+            "event": "D\u00e9but de la conqu\u00eate de l\u2019Alg\u00e9rie par la France"
+        },
+        {
+            "year": "1833",
+            "event": "L\u2019Angleterre abolit l\u2019esclavage"
+        },
+        {
+            "year": "1840",
+            "event": "D\u00e9but Guerre de l\u2019Opium ; trait\u00e9 de Nankin"
+        },
+        {
+            "year": "1842",
+            "event": "Fin Guerre de l\u2019Opium ; trait\u00e9 de Nankin"
+        },
+        {
+            "year": "1848",
+            "event": "La France abolit l\u2019esclavage"
+        },
+        {
+            "year": "1848",
+            "event": "Ann\u00e9e de r\u00e9volutions en Europe"
+        },
+        {
+            "year": "1848",
+            "event": "D\u00e9but de la ru\u00e9e vers l\u2019or en Californie"
+        },
+        {
+            "year": "1852",
+            "event": "D\u00e9but Second Empire"
+        },
+        {
+            "year": "1870",
+            "event": "Fin Second Empire"
+        },
+        {
+            "year": "1854",
+            "event": "D\u00e9but Guerre de Crim\u00e9e"
+        },
+        {
+            "year": "1856",
+            "event": "Fin Guerre de Crim\u00e9e"
+        },
+        {
+            "year": "1857",
+            "event": "R\u00e9volte des Cipayes en Inde"
+        },
+        {
+            "year": "1858",
+            "event": "L\u2019Inde devient colonie de la couronne britannique"
+        },
+        {
+            "year": "1859",
+            "event": "Les Fran\u00e7ais occupent Saigon Expansion fran\u00e7aise en Indochine"
+        },
+        {
+            "year": "1860",
+            "event": "Expansion fran\u00e7aise en Afrique occidentale"
+        },
+        {
+            "year": "1861",
+            "event": "D\u00e9but D\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
+        },
+        {
+            "year": "1865",
+            "event": "Fin D\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
+        },
+        {
+            "year": "1865",
+            "event": "Assassinat d\u2019Abraham Lincoln"
+        },
+        {
+            "year": "1869",
+            "event": "Ouverture du canal de Suez"
+        },
+        {
+            "year": "1872",
+            "event": "D\u00e9but Triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
+        },
+        {
+            "year": "1914",
+            "event": "Fin Triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
+        },
+        {
+            "year": "1876",
+            "event": "Bataille de Little Big Horn Les indiens Sioux repoussent l\u2019arm\u00e9e am\u00e9ricaine du g\u00e9n\u00e9ral Custer"
+        },
+        {
+            "year": "1877",
+            "event": "Victoria devient imp\u00e9ratrice des Indes"
+        },
+        {
+            "year": "1879",
+            "event": "Guerre des Zoulous"
+        },
+        {
+            "year": "1882",
+            "event": "Les Anglais occupent l\u2019Egypte"
+        },
+        {
+            "year": "1885",
+            "event": "D\u00e9but La Belgique occupe le Congo"
+        },
+        {
+            "year": "1930",
+            "event": "Fin La Belgique occupe le Congo"
+        },
+        {
+            "year": "1886",
+            "event": "L\u2019Angleterre annexe la Birmanie"
+        },
+        {
+            "year": "1894",
+            "event": "D\u00e9but Guerre sino-japonaise"
+        },
+        {
+            "year": "1895",
+            "event": "Fin Guerre sino-japonaise"
+        },
+        {
+            "year": "1898",
+            "event": "Guerre Hispano-am\u00e9ricaine"
+        },
+        {
+            "year": "1899",
+            "event": "D\u00e9but Guerre des Boers"
+        },
+        {
+            "year": "1902",
+            "event": "Fin Guerre des Boers"
+        },
+        {
+            "year": "1903",
+            "event": "Ind\u00e9pendance de Panama Cession de la zone du canal aux Etats-Unis"
+        },
+        {
+            "year": "1904",
+            "event": "Entente cordiale franco-anglaise"
+        },
+        {
+            "year": "1905",
+            "event": "Premi\u00e8re r\u00e9volution russe"
+        },
+        {
+            "year": "1909",
+            "event": "D\u00e9but R\u00e9volution de Zapata au Mexique"
+        },
+        {
+            "year": "1919",
+            "event": "Fin R\u00e9volution de Zapata au Mexique"
+        },
+        {
+            "year": "1910",
+            "event": "Cr\u00e9ation de l\u2019Union sud-africaine"
+        },
+        {
+            "year": "1911",
+            "event": "R\u00e9volution dirig\u00e9e par Sun Yat-sen, fin de l\u2019Empire chinois"
+        },
+        {
+            "year": "1911",
+            "event": "Conqu\u00eate de la Libye par l\u2019Italie"
+        },
+        {
+            "year": "1912",
+            "event": "Protectorat fran\u00e7ais sur le Maroc"
+        },
+        {
+            "year": "1914",
+            "event": "D\u00e9but 1\u00e8re Guerre mondiale"
+        },
+        {
+            "year": "1918",
+            "event": "Fin 1\u00e8re Guerre mondiale"
+        },
+        {
+            "year": "1914",
+            "event": "Protectorat britannique sur l\u2019Egypte"
+        },
+        {
+            "year": "1914",
+            "event": "Ouverture du canal de Panama"
+        },
+        {
+            "year": "1917",
+            "event": "D\u00e9but R\u00e9volution russe et guerre civile"
+        },
+        {
+            "year": "1921",
+            "event": "Fin R\u00e9volution russe et guerre civile"
+        },
+        {
+            "year": "1917",
+            "event": "D\u00e9claration de lord Balfour proposant la cr\u00e9ation d\u2019un \u00ab\u00a0Foyer national juif\u00a0\u00bb en Palestine"
+        },
+        {
+            "year": "1917",
+            "event": "Entr\u00e9e en guerre des Etats-Unis aux c\u00f4t\u00e9s des Alli\u00e9s"
+        },
+        {
+            "year": "1919",
+            "event": "Trait\u00e9 de Versailles Cr\u00e9ation de la Soci\u00e9t\u00e9 des Nations"
+        },
+        {
+            "year": "1922",
+            "event": "Cr\u00e9ation de l\u2019Etat libre d\u2019Irlande"
+        },
+        {
+            "year": "1923",
+            "event": "Proclamation de la R\u00e9publique turque, fin de l\u2019Empire ottoman"
+        },
+        {
+            "year": "1924",
+            "event": "Staline au pouvoir"
+        },
+        {
+            "year": "1929",
+            "event": "Krach boursier de Wall Street"
+        },
+        {
+            "year": "1931",
+            "event": "Le Japon occupe la Mandchourie"
+        },
+        {
+            "year": "1933",
+            "event": "Hitler chancelier en Allemagne"
+        },
+        {
+            "year": "1933",
+            "event": "Roosevelt propose le New Deal (la nouvelle donne) pour lutter contre la crise \u00e9conomique"
+        },
+        {
+            "year": "1934",
+            "event": "La \u00ab\u00a0Longue Marche\u00a0\u00bb de Mao Zedong en Chine"
+        },
+        {
+            "year": "1936",
+            "event": "D\u00e9but Guerre civile en Espagne"
+        },
+        {
+            "year": "1939",
+            "event": "Fin Guerre civile en Espagne"
+        },
+        {
+            "year": "1936",
+            "event": "L\u2019Italie annexe l\u2019Ethiopie"
+        },
+        {
+            "year": "1937",
+            "event": "Le Japon envahit la Chine"
+        },
+        {
+            "year": "1939",
+            "event": "D\u00e9but Seconde Guerre mondiale"
+        },
+        {
+            "year": "1945",
+            "event": "Fin Seconde Guerre mondiale"
+        },
+        {
+            "year": "1940",
+            "event": "Le Japon s\u2019allie avec l\u2019Allemagne"
+        },
+        {
+            "year": "1941",
+            "event": "Le Japon attaque Pearl Harbor"
+        },
+        {
+            "year": "1945(ao\u00fbt)",
+            "event": "Bombes atomiques am\u00e9ricaines sur Hiroshima et Nagasaki"
+        },
+        {
+            "year": "1945(juin)",
+            "event": "Cr\u00e9ation de l\u2019Organisation des Nations Unies"
+        },
+        {
+            "year": "1945(novembre)",
+            "event": "Gouvernement tripartite MRP-PCF-SFIO autour de De Gaulle en France"
+        },
+        {
+            "year": "1946",
+            "event": "D\u00e9mission de De Gaulle contre le r\u00e9gime \u00ab\u00a0des partis\u00a0\u00bb et nouvelle constitution"
+        },
+        {
+            "year": "1947(mars)",
+            "event": "Doctrine Truman et plan Marshall"
+        },
+        {
+            "year": "1947(avril)",
+            "event": "Cr\u00e9ation du Rassemblement du Peuple Fran\u00e7ais"
+        },
+        {
+            "year": "1947",
+            "event": "Plan de l\u2019ONU pour le partage de la Palestine"
+        },
+        {
+            "year": "1949",
+            "event": "Proclamation de la R\u00e9publique Populaire de Chine"
+        },
+        {
+            "year": "1950",
+            "event": "D\u00e9but Guerre de Cor\u00e9e"
+        },
+        {
+            "year": "1953",
+            "event": "Fin Guerre de Cor\u00e9e"
+        },
+        {
+            "year": "1951",
+            "event": "Cr\u00e9ation de la CECA (Communaut\u00e9 europ\u00e9enne du charbon et de l\u2019acier)"
+        },
+        {
+            "year": "1955",
+            "event": "D\u00e9but Guerre du Vietnam"
+        },
+        {
+            "year": "1975",
+            "event": "Fin Guerre du Vietnam"
+        },
+        {
+            "year": "1955",
+            "event": "Conf\u00e9rence de Bandung"
+        },
+        {
+            "year": "1956",
+            "event": "Crise de Suez"
+        },
+        {
+            "year": "1957(mars)",
+            "event": "Mise en place de la CEE (Communaut\u00e9 \u00e9conomique europ\u00e9enne) et EURATOM (Communaut\u00e9 europ\u00e9enne de l\u2019\u00e9nergie atomique)"
+        },
+        {
+            "year": "1958",
+            "event": "De Gaulle pr\u00e9sident du Conseil puis obtient les pleins pouvoirs"
+        },
+        {
+            "year": "1958(septembre)",
+            "event": "R\u00e9f\u00e9rendum sur la constitution donnant naissance \u00e0 la Ve R\u00e9publique (79% de oui)"
+        },
+        {
+            "year": "1958",
+            "event": "D\u00e9but Le Grand bond en avant et la Grande famine en Chine"
+        },
+        {
+            "year": "1959",
+            "event": "Fin Le Grand bond en avant et la Grande famine en Chine"
+        },
+        {
+            "year": "1961",
+            "event": "Putsch des g\u00e9n\u00e9raux \u00e0 Alger"
+        },
+        {
+            "year": "1962(18mars)",
+            "event": "Les accords d\u2019Evian marquent la fin de la guerre d\u2019Alg\u00e9rie"
+        },
+        {
+            "year": "1962",
+            "event": "Crise de Cuba"
+        },
+        {
+            "year": "1966",
+            "event": "D\u00e9but La r\u00e9volution culturelle en Chine"
+        },
+        {
+            "year": "1969",
+            "event": "Fin La r\u00e9volution culturelle en Chine"
+        },
+        {
+            "year": "1967",
+            "event": "Guerre des 6 jours"
+        },
+        {
+            "year": "1968",
+            "event": "Mouvements, gr\u00e8ves et manifestations connues sous le nom de Mai 68"
+        },
+        {
+            "year": "1969(juin)",
+            "event": "Georges Pompidou pr\u00e9sident de France"
+        },
+        {
+            "year": "1973",
+            "event": "Coup d\u2019\u00c9tat au Chili"
+        },
+        {
+            "year": "1973",
+            "event": "Guerre du Kippour et 1er choc p\u00e9trolier"
+        },
+        {
+            "year": "1975",
+            "event": "D\u00e9but Guerre civile au Liban"
+        },
+        {
+            "year": "1990",
+            "event": "Fin Guerre civile au Liban"
+        },
+        {
+            "year": "1976",
+            "event": "D\u00e9but Mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
+        },
+        {
+            "year": "1979",
+            "event": "Fin Mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
+        },
+        {
+            "year": "1979",
+            "event": "R\u00e9volution islamique en Iran"
+        },
+        {
+            "year": "1980",
+            "event": "D\u00e9but Guerre Iran-Irak"
+        },
+        {
+            "year": "1988",
+            "event": "Fin Guerre Iran-Irak"
+        },
+        {
+            "year": "1981",
+            "event": "Assassinat d\u2019Anouar Al-Sadate"
+        },
+        {
+            "year": "1986",
+            "event": "Premi\u00e8re cohabitation en France avec Jacques Chirac premier ministre"
+        },
+        {
+            "year": "1988",
+            "event": "Fran\u00e7ois Mitterrand r\u00e9\u00e9lu pr\u00e9sident de la R\u00e9publique en France"
+        },
+        {
+            "year": "1989(4juin)",
+            "event": "\u00c9crasement de la r\u00e9volte des \u00e9tudiants \u00e0 Tien Anmen"
+        },
+        {
+            "year": "1991",
+            "event": "Guerre du Golfe"
+        },
+        {
+            "year": "1991(25d\u00e9cembre)",
+            "event": "D\u00e9mission de Gorbatchev"
+        },
+        {
+            "year": "1992",
+            "event": "Intervention en Somalie"
+        },
+        {
+            "year": "1993",
+            "event": "Accords de Washington entre Isra\u00e9liens et Palestiniens"
+        },
+        {
+            "year": "1995",
+            "event": "Intervention am\u00e9ricaine et fin de la guerre en Bosnie"
+        },
+        {
+            "year": "2000",
+            "event": "Seconde Intifada"
+        },
+        {
+            "year": "2001",
+            "event": "Attentats aux Etats-Unis contre les tours du World Trade Center et guerre en Afghanistan"
+        },
+        {
+            "year": "2002",
+            "event": "Jacques Chirac r\u00e9\u00e9lu pr\u00e9sident contre Jean-Marie Le Pen au second tour"
+        },
+        {
+            "year": "2003",
+            "event": "1er ta\u00efkonaute chinois"
+        },
+        {
+            "year": "2003",
+            "event": "Intervention am\u00e9ricaine en Irak, Dominique de Villepin s\u2019oppose \u00e0 une intervention au conseil de s\u00e9curit\u00e9 de l\u2019ONU"
+        },
+        {
+            "year": "2007",
+            "event": "\u00c9lection de Nicolas Sarkozy \u00e0 la pr\u00e9sidence de la R\u00e9publique fran\u00e7aise"
+        },
+        {
+            "year": "2008(ao\u00fbt)",
+            "event": "Jeux Olympiques de P\u00e9kin"
+        },
+        {
+            "year": "2010",
+            "event": "Exposition universelle de Shanghai"
+        },
+        {
+            "year": "2011",
+            "event": "Les \u00ab\u00a0printemps arabes\u00a0\u00bb"
+        },
+        {
+            "year": "2011(2mai)",
+            "event": "Mort d\u2019Oussama ben Laden"
+        }
+    ]
+}
