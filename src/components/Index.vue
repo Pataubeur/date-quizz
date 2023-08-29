@@ -25,12 +25,16 @@
 
   function focusNext(){
     let btn = document.getElementById("nextButton");
-    btn.focus({});
+    if(btn !== null) {
+      btn.focus({});
+    }
   }
 
   function focusNextInput(){
     let input = document.getElementById("inputAnswer");
-    input.focus({});
+    if(input !== null) {
+      input.focus({});
+    }
   }
 
 </script>
