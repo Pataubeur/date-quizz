@@ -61,8 +61,12 @@
             "event": "Chute de l\u2019Empire myc\u00e9nien"
         },
         {
-            "year": "-900-750",
-            "event": "Cr\u00e9ation des cit\u00e9s-\u00c9tats en Gr\u00e8ce"
+            "year": "-900",
+            "event": "D\u00e9but cr\u00e9ation des cit\u00e9s-\u00c9tats en Gr\u00e8ce"
+        },
+        {
+            "year": "-750",
+            "event": "Fin cr\u00e9ation des cit\u00e9s-\u00c9tats en Gr\u00e8ce"
         },
         {
             "year": "-814",
@@ -93,8 +97,12 @@
             "event": "Cr\u00e9ation de la R\u00e9publique romaine"
         },
         {
-            "year": "-483-221",
-            "event": "P\u00e9riode des \u00abRoyaumes combattants\u00bb en Chine"
+            "year": "-483",
+            "event": "D\u00e9but p\u00e9riode des \u00abRoyaumes combattants\u00bb en Chine"
+        },
+        {
+            "year": "-221",
+            "event": "Fin p\u00e9riode des \u00abRoyaumes combattants\u00bb en Chine"
         },
         {
             "year": "-202",
@@ -150,11 +158,11 @@
         },
         {
             "year": "407",
-            "event": "D\u00e9but Premier Empire mongol"
+            "event": "D\u00e9but premier Empire mongol"
         },
         {
             "year": "553",
-            "event": "Fin Premier Empire mongol"
+            "event": "Fin premier Empire mongol"
         },
         {
             "year": "410",
@@ -174,11 +182,11 @@
         },
         {
             "year": "533",
-            "event": "D\u00e9but Justinien restaure l\u2019Empire romain en Afrique du Nord"
+            "event": "D\u00e9but justinien restaure l\u2019Empire romain en Afrique du Nord"
         },
         {
             "year": "552",
-            "event": "Fin Justinien restaure l\u2019Empire romain en Afrique du Nord"
+            "event": "Fin justinien restaure l\u2019Empire romain en Afrique du Nord"
         },
         {
             "year": "552",
@@ -226,7 +234,7 @@
         },
         {
             "year": "907",
-            "event": "Chine"
+            "event": "Chine le dernier empereur Tang est d\u00e9tr\u00f4n\u00e9"
         },
         {
             "year": "911",
@@ -234,11 +242,11 @@
         },
         {
             "year": "920",
-            "event": "D\u00e9but Apog\u00e9e de l\u2019Empire du Ghana"
+            "event": "D\u00e9but apog\u00e9e de l\u2019Empire du Ghana"
         },
         {
             "year": "1050",
-            "event": "Fin Apog\u00e9e de l\u2019Empire du Ghana"
+            "event": "Fin apog\u00e9e de l\u2019Empire du Ghana"
         },
         {
             "year": "939",
@@ -302,11 +310,11 @@
         },
         {
             "year": "1156",
-            "event": "D\u00e9but Guerres civiles au Japon"
+            "event": "D\u00e9but guerres civiles au Japon"
         },
         {
             "year": "1189",
-            "event": "Fin Guerres civiles au Japon"
+            "event": "Fin guerres civiles au Japon"
         },
         {
             "year": "1174",
@@ -338,11 +346,11 @@
         },
         {
             "year": "1202",
-            "event": "D\u00e9but La 4e croisade s\u2019empare de Constantinople"
+            "event": "D\u00e9but la 4e croisade s\u2019empare de Constantinople"
         },
         {
             "year": "1204",
-            "event": "Fin La 4e croisade s\u2019empare de Constantinople"
+            "event": "Fin la 4e croisade s\u2019empare de Constantinople"
         },
         {
             "year": "1206",
@@ -438,15 +446,15 @@
         },
         {
             "year": "1375",
-            "event": "Essor de l\u2019Empire azt\u00e8que"
+            "event": "Essor de l\u2019Empire azt\u00e8que "
         },
         {
             "year": "1378",
-            "event": "D\u00e9but Grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
+            "event": "D\u00e9but grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
         },
         {
             "year": "1417",
-            "event": "Fin Grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
+            "event": "Fin grand schisme d\u2019Occident (s\u00e9paration entre Rome et Avignon) ; \u00e9lection de papes rivaux"
         },
         {
             "year": "1385",
@@ -486,11 +494,11 @@
         },
         {
             "year": "1440",
-            "event": "D\u00e9but R\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
+            "event": "D\u00e9but r\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
         },
         {
             "year": "1469",
-            "event": "Fin R\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
+            "event": "Fin r\u00e8gne de l\u2019empereur azt\u00e8que Montezuma"
         },
         {
             "year": "1450",
@@ -510,11 +518,11 @@
         },
         {
             "year": "1455",
-            "event": "D\u00e9but Guerre des Deux Roses en Angleterre"
+            "event": "D\u00e9but guerre des Deux Roses en Angleterre"
         },
         {
             "year": "1485",
-            "event": "Fin Guerre des Deux Roses en Angleterre"
+            "event": "Fin guerre des Deux Roses en Angleterre"
         },
         {
             "year": "1482",
@@ -550,11 +558,11 @@
         },
         {
             "year": "1531",
-            "event": "D\u00e9but Pizarre fait la conqu\u00eate du P\u00e9rou"
+            "event": "D\u00e9but pizarre fait la conqu\u00eate du P\u00e9rou"
         },
         {
             "year": "1535",
-            "event": "Fin Pizarre fait la conqu\u00eate du P\u00e9rou"
+            "event": "Fin pizarre fait la conqu\u00eate du P\u00e9rou"
         },
         {
             "year": "1532",
@@ -582,11 +590,11 @@
         },
         {
             "year": "1562",
-            "event": "D\u00e9but Guerres de religion en France"
+            "event": "D\u00e9but guerres de religion en France"
         },
         {
             "year": "1598",
-            "event": "Fin Guerres de religion en France"
+            "event": "Fin guerres de religion en France"
         },
         {
             "year": "1571",
@@ -602,11 +610,11 @@
         },
         {
             "year": "1589",
-            "event": "D\u00e9but R\u00e8gne de Henri IV"
+            "event": "D\u00e9but r\u00e8gne de Henri IV"
         },
         {
             "year": "1610",
-            "event": "Fin R\u00e8gne de Henri IV"
+            "event": "Fin r\u00e8gne de Henri IV"
         },
         {
             "year": "1607",
@@ -618,11 +626,11 @@
         },
         {
             "year": "1618",
-            "event": "D\u00e9but Guerre de Trente Ans"
+            "event": "D\u00e9but guerre de Trente Ans"
         },
         {
             "year": "1648",
-            "event": "Fin Guerre de Trente Ans"
+            "event": "Fin guerre de Trente Ans"
         },
         {
             "year": "1620",
@@ -638,11 +646,11 @@
         },
         {
             "year": "1643",
-            "event": "D\u00e9but R\u00e8gne de Louis XIV"
+            "event": "D\u00e9but r\u00e8gne de Louis XIV"
         },
         {
             "year": "1715",
-            "event": "Fin R\u00e8gne de Louis XIV"
+            "event": "Fin r\u00e8gne de Louis XIV"
         },
         {
             "year": "1644",
@@ -650,7 +658,7 @@
         },
         {
             "year": "1649",
-            "event": "R\u00e9volution anglaise"
+            "event": "R\u00e9volution anglaise ex\u00e9cution de Charles Ier \u00e0 Londres"
         },
         {
             "year": "1652",
@@ -670,7 +678,7 @@
         },
         {
             "year": "1689",
-            "event": "Angleterre"
+            "event": "Angleterre le \u00ab\u00a0Bill of Right\u00a0\u00bb fonde la monarchie constitutionnelle "
         },
         {
             "year": "1690",
@@ -682,11 +690,11 @@
         },
         {
             "year": "1701",
-            "event": "D\u00e9but Guerres de succession d\u2019Espagne"
+            "event": "D\u00e9but guerres de succession d\u2019Espagne"
         },
         {
             "year": "1713",
-            "event": "Fin Guerres de succession d\u2019Espagne"
+            "event": "Fin guerres de succession d\u2019Espagne"
         },
         {
             "year": "1707",
@@ -702,11 +710,11 @@
         },
         {
             "year": "1740",
-            "event": "D\u00e9but Guerre de succession d\u2019Autriche"
+            "event": "D\u00e9but guerre de succession d\u2019Autriche"
         },
         {
             "year": "1748",
-            "event": "Fin Guerre de succession d\u2019Autriche"
+            "event": "Fin guerre de succession d\u2019Autriche"
         },
         {
             "year": "1756",
@@ -714,15 +722,15 @@
         },
         {
             "year": "1759",
-            "event": "Les Anglais prennent aux Fran\u00e7ais le Qu\u00e9bec Les colons d\u2019Am\u00e9rique s\u2019opposent aux taxes d\u2019importation"
+            "event": "Les Anglais prennent aux Fran\u00e7ais le Qu\u00e9bec Les colons d\u2019Am\u00e9rique s\u2019opposent aux taxes d\u2019importation la \u00ab\u00a0Tea Party\u00a0\u00bb de Boston"
         },
         {
             "year": "1775",
-            "event": "D\u00e9but Guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
+            "event": "D\u00e9but guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
         },
         {
             "year": "1783",
-            "event": "Fin Guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
+            "event": "Fin guerre d\u2019ind\u00e9pendance am\u00e9ricaine"
         },
         {
             "year": "1776",
@@ -810,11 +818,11 @@
         },
         {
             "year": "1840",
-            "event": "D\u00e9but Guerre de l\u2019Opium ; trait\u00e9 de Nankin"
+            "event": "D\u00e9but guerre de l\u2019Opium ; trait\u00e9 de Nankin"
         },
         {
             "year": "1842",
-            "event": "Fin Guerre de l\u2019Opium ; trait\u00e9 de Nankin"
+            "event": "Fin guerre de l\u2019Opium ; trait\u00e9 de Nankin"
         },
         {
             "year": "1848",
@@ -830,19 +838,19 @@
         },
         {
             "year": "1852",
-            "event": "D\u00e9but Second Empire"
+            "event": "D\u00e9but second Empire"
         },
         {
             "year": "1870",
-            "event": "Fin Second Empire"
+            "event": "Fin second Empire"
         },
         {
             "year": "1854",
-            "event": "D\u00e9but Guerre de Crim\u00e9e"
+            "event": "D\u00e9but guerre de Crim\u00e9e"
         },
         {
             "year": "1856",
-            "event": "Fin Guerre de Crim\u00e9e"
+            "event": "Fin guerre de Crim\u00e9e"
         },
         {
             "year": "1857",
@@ -862,11 +870,11 @@
         },
         {
             "year": "1861",
-            "event": "D\u00e9but D\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
+            "event": "D\u00e9but d\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
         },
         {
             "year": "1865",
-            "event": "Fin D\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
+            "event": "Fin d\u00e9but de la guerre de S\u00e9cession en Am\u00e9rique"
         },
         {
             "year": "1865",
@@ -878,11 +886,11 @@
         },
         {
             "year": "1872",
-            "event": "D\u00e9but Triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
+            "event": "D\u00e9but triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
         },
         {
             "year": "1914",
-            "event": "Fin Triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
+            "event": "Fin triple-Alliance entre l\u2019Allemagne, l\u2019Autriche et l\u2019Italie"
         },
         {
             "year": "1876",
@@ -902,11 +910,11 @@
         },
         {
             "year": "1885",
-            "event": "D\u00e9but La Belgique occupe le Congo"
+            "event": "D\u00e9but la Belgique occupe le Congo"
         },
         {
             "year": "1930",
-            "event": "Fin La Belgique occupe le Congo"
+            "event": "Fin la Belgique occupe le Congo"
         },
         {
             "year": "1886",
@@ -914,11 +922,11 @@
         },
         {
             "year": "1894",
-            "event": "D\u00e9but Guerre sino-japonaise"
+            "event": "D\u00e9but guerre sino-japonaise"
         },
         {
             "year": "1895",
-            "event": "Fin Guerre sino-japonaise"
+            "event": "Fin guerre sino-japonaise"
         },
         {
             "year": "1898",
@@ -926,11 +934,11 @@
         },
         {
             "year": "1899",
-            "event": "D\u00e9but Guerre des Boers"
+            "event": "D\u00e9but guerre des Boers"
         },
         {
             "year": "1902",
-            "event": "Fin Guerre des Boers"
+            "event": "Fin guerre des Boers"
         },
         {
             "year": "1903",
@@ -946,11 +954,11 @@
         },
         {
             "year": "1909",
-            "event": "D\u00e9but R\u00e9volution de Zapata au Mexique"
+            "event": "D\u00e9but r\u00e9volution de Zapata au Mexique"
         },
         {
             "year": "1919",
-            "event": "Fin R\u00e9volution de Zapata au Mexique"
+            "event": "Fin r\u00e9volution de Zapata au Mexique"
         },
         {
             "year": "1910",
@@ -986,11 +994,11 @@
         },
         {
             "year": "1917",
-            "event": "D\u00e9but R\u00e9volution russe et guerre civile"
+            "event": "D\u00e9but r\u00e9volution russe et guerre civile"
         },
         {
             "year": "1921",
-            "event": "Fin R\u00e9volution russe et guerre civile"
+            "event": "Fin r\u00e9volution russe et guerre civile"
         },
         {
             "year": "1917",
@@ -1038,11 +1046,11 @@
         },
         {
             "year": "1936",
-            "event": "D\u00e9but Guerre civile en Espagne"
+            "event": "D\u00e9but guerre civile en Espagne"
         },
         {
             "year": "1939",
-            "event": "Fin Guerre civile en Espagne"
+            "event": "Fin guerre civile en Espagne"
         },
         {
             "year": "1936",
@@ -1054,11 +1062,11 @@
         },
         {
             "year": "1939",
-            "event": "D\u00e9but Seconde Guerre mondiale"
+            "event": "D\u00e9but seconde Guerre mondiale"
         },
         {
             "year": "1945",
-            "event": "Fin Seconde Guerre mondiale"
+            "event": "Fin seconde Guerre mondiale"
         },
         {
             "year": "1940",
@@ -1066,7 +1074,7 @@
         },
         {
             "year": "1941",
-            "event": "Le Japon attaque Pearl Harbor"
+            "event": "Le Japon attaque Pearl Harbor les Etats-Unis en guerre"
         },
         {
             "year": "1945(ao\u00fbt)",
@@ -1082,7 +1090,15 @@
         },
         {
             "year": "1946",
-            "event": "D\u00e9mission de De Gaulle contre le r\u00e9gime \u00ab\u00a0des partis\u00a0\u00bb et nouvelle constitution"
+            "event": "D\u00e9mission de De Gaulle contre le r\u00e9gime \u00ab\u00a0des partis\u00a0\u00bb et nouvelle constitution IVe R\u00e9publique"
+        },
+        {
+            "year": "1947",
+            "event": "D\u00e9but guerre froide"
+        },
+        {
+            "year": "1989",
+            "event": "Fin guerre froide"
         },
         {
             "year": "1947(mars)",
@@ -1090,11 +1106,15 @@
         },
         {
             "year": "1947(avril)",
-            "event": "Cr\u00e9ation du Rassemblement du Peuple Fran\u00e7ais"
+            "event": "Cr\u00e9ation du Rassemblement du Peuple Fran\u00e7ais RPF"
         },
         {
             "year": "1947",
             "event": "Plan de l\u2019ONU pour le partage de la Palestine"
+        },
+        {
+            "year": "1948",
+            "event": "Naissance d\u2019Isra\u00ebl et 1\u00e8re guerre isra\u00e9lo-arabe"
         },
         {
             "year": "1949",
@@ -1102,11 +1122,11 @@
         },
         {
             "year": "1950",
-            "event": "D\u00e9but Guerre de Cor\u00e9e"
+            "event": "D\u00e9but guerre de Cor\u00e9e"
         },
         {
             "year": "1953",
-            "event": "Fin Guerre de Cor\u00e9e"
+            "event": "Fin guerre de Cor\u00e9e"
         },
         {
             "year": "1951",
@@ -1114,11 +1134,11 @@
         },
         {
             "year": "1955",
-            "event": "D\u00e9but Guerre du Vietnam"
+            "event": "D\u00e9but guerre du Vietnam"
         },
         {
             "year": "1975",
-            "event": "Fin Guerre du Vietnam"
+            "event": "Fin guerre du Vietnam"
         },
         {
             "year": "1955",
@@ -1142,11 +1162,11 @@
         },
         {
             "year": "1958",
-            "event": "D\u00e9but Le Grand bond en avant et la Grande famine en Chine"
+            "event": "D\u00e9but le Grand bond en avant et la Grande famine en Chine"
         },
         {
             "year": "1959",
-            "event": "Fin Le Grand bond en avant et la Grande famine en Chine"
+            "event": "Fin le Grand bond en avant et la Grande famine en Chine"
         },
         {
             "year": "1961",
@@ -1161,12 +1181,16 @@
             "event": "Crise de Cuba"
         },
         {
+            "year": "1963",
+            "event": "\u00ab\u00a0Ich bin ein Berliner\u00a0\u00bb - Kennedy"
+        },
+        {
             "year": "1966",
-            "event": "D\u00e9but La r\u00e9volution culturelle en Chine"
+            "event": "D\u00e9but la r\u00e9volution culturelle en Chine"
         },
         {
             "year": "1969",
-            "event": "Fin La r\u00e9volution culturelle en Chine"
+            "event": "Fin la r\u00e9volution culturelle en Chine"
         },
         {
             "year": "1967",
@@ -1189,20 +1213,24 @@
             "event": "Guerre du Kippour et 1er choc p\u00e9trolier"
         },
         {
+            "year": "1974",
+            "event": "Val\u00e9ry Giscard d\u2019Estaing remporte les \u00e9lections pr\u00e9sidentielles d\u2019un courte avance "
+        },
+        {
             "year": "1975",
-            "event": "D\u00e9but Guerre civile au Liban"
+            "event": "D\u00e9but guerre civile au Liban"
         },
         {
             "year": "1990",
-            "event": "Fin Guerre civile au Liban"
+            "event": "Fin guerre civile au Liban"
         },
         {
             "year": "1976",
-            "event": "D\u00e9but Mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
+            "event": "D\u00e9but mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
         },
         {
             "year": "1979",
-            "event": "Fin Mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
+            "event": "Fin mort de Mao Zedong ; Deng Xiao Ping entame la transformation de la Chine "
         },
         {
             "year": "1979",
@@ -1210,11 +1238,15 @@
         },
         {
             "year": "1980",
-            "event": "D\u00e9but Guerre Iran-Irak"
+            "event": "D\u00e9but guerre Iran-Irak"
         },
         {
             "year": "1988",
-            "event": "Fin Guerre Iran-Irak"
+            "event": "Fin guerre Iran-Irak"
+        },
+        {
+            "year": "1981",
+            "event": "Fran\u00e7ois Mitterrand \u00e9lu pr\u00e9sident de la R\u00e9publique en France "
         },
         {
             "year": "1981",
@@ -1225,6 +1257,10 @@
             "event": "Premi\u00e8re cohabitation en France avec Jacques Chirac premier ministre"
         },
         {
+            "year": "1987",
+            "event": "1\u00e8re Intifada "
+        },
+        {
             "year": "1988",
             "event": "Fran\u00e7ois Mitterrand r\u00e9\u00e9lu pr\u00e9sident de la R\u00e9publique en France"
         },
@@ -1233,8 +1269,16 @@
             "event": "\u00c9crasement de la r\u00e9volte des \u00e9tudiants \u00e0 Tien Anmen"
         },
         {
+            "year": "1989(9novembre)",
+            "event": "Chute du mur de Berlin"
+        },
+        {
             "year": "1991",
             "event": "Guerre du Golfe"
+        },
+        {
+            "year": "1992",
+            "event": "R\u00e9f\u00e9rendum sur le trait\u00e9 de Maastricht (51,04% de oui)"
         },
         {
             "year": "1991(25d\u00e9cembre)",
@@ -1247,6 +1291,10 @@
         {
             "year": "1993",
             "event": "Accords de Washington entre Isra\u00e9liens et Palestiniens"
+        },
+        {
+            "year": "1995",
+            "event": "Jacques Chirac est \u00e9lu pr\u00e9sident de la R\u00e9publique en France "
         },
         {
             "year": "1995",
@@ -1273,12 +1321,20 @@
             "event": "Intervention am\u00e9ricaine en Irak, Dominique de Villepin s\u2019oppose \u00e0 une intervention au conseil de s\u00e9curit\u00e9 de l\u2019ONU"
         },
         {
+            "year": "2005",
+            "event": "Le r\u00e9f\u00e9rendum sur la constitution europ\u00e9enne \u00e9choue au r\u00e9f\u00e9rendum en France (54,68% de non) "
+        },
+        {
             "year": "2007",
             "event": "\u00c9lection de Nicolas Sarkozy \u00e0 la pr\u00e9sidence de la R\u00e9publique fran\u00e7aise"
         },
         {
             "year": "2008(ao\u00fbt)",
             "event": "Jeux Olympiques de P\u00e9kin"
+        },
+        {
+            "year": "2008",
+            "event": "\u00c9lection de Barack Obama"
         },
         {
             "year": "2010",
