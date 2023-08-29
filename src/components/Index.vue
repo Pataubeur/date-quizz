@@ -8,7 +8,13 @@
   let good_answer = false
   function submit() {
     checked.value = true
-    good_answer = date_asked['year'] === (answer.value);
+    let date_good_answer = ''
+    if(date_asked['year'].includes('(')) {
+      date_good_answer = date_asked['year'].split('(')[0]
+    } else {
+      date_good_answer = date_asked['year']
+    }
+    good_answer = date_good_answer === (answer.value);
     setTimeout(() => {
       focusNext();
     }, 20);
