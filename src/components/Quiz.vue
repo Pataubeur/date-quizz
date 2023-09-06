@@ -9,7 +9,7 @@
   let date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
   let good_answer = false
   let question_number = 1
-  const question_limit = 5
+  const question_limit = 15
 
   function submit() {
     checked.value = true
@@ -20,9 +20,7 @@
       date_good_answer = date_asked['year']
     }
     good_answer = date_good_answer === (answer.value);
-    if(good_answer) {
-      store.score = store.score + 1
-    }
+    store.score = store.score + calculateScore(+date_good_answer, +answer.value)
     setTimeout(() => {
       focusNext();
     }, 20);
@@ -53,6 +51,21 @@
     if(input !== null) {
       input.focus({});
     }
+  }
+
+  function calculateScore(good_answer: number, answer_value: number) {
+    console.log(good_answer)
+    console.log(answer_value)
+    let question_score = 0
+    const difference = Math.abs(good_answer - answer_value)
+    console.log(difference)
+    if(difference > 100) {
+      question_score = 0
+    } else {
+      question_score = 100 - difference
+    }
+    console.log(question_score)
+    return question_score
   }
 
 </script>
