@@ -1,11 +1,16 @@
 <script setup lang="ts">
   import {ref} from "vue";
   import date from "../assets/date.json"
+  import {store} from "../store.ts";
+  import router from "../router.ts";
 
   const checked = ref(false)
   const answer = ref('')
   let date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
   let good_answer = false
+  let question_number = 1
+  const question_limit = 5
+
   function submit() {
     checked.value = true
     let date_good_answer = ''
@@ -15,15 +20,22 @@
       date_good_answer = date_asked['year']
     }
     good_answer = date_good_answer === (answer.value);
+    if(good_answer) {
+      store.score = store.score + 1
+    }
     setTimeout(() => {
       focusNext();
     }, 20);
   }
 
   function next() {
+    question_number++
     date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
     checked.value = false
     answer.value = ''
+    if(question_number == question_limit) {
+      router.push('/')
+    }
     setTimeout(() => {
       focusNextInput();
     }, 20);
@@ -48,6 +60,9 @@
 <template>
   <div class="flex justify-center items-center h-screen text-center">
     <div v-if="!checked" class="space-x-4">
+      <h1 class="text-2xl mb-7 text-black-500">
+        Question : {{ question_number }} / {{ question_limit }}
+      </h1>
       <h1 class="text-5xl mb-7 text-black-500 font-bold">
         {{ date_asked['event'] }}
       </h1>
@@ -58,6 +73,9 @@
     </div>
     <div v-else class="space-x-4">
       <div v-if="good_answer" class="space-x-4">
+        <h1 class="text-2xl mb-7 text-black-500">
+          Question : {{ question_number }} / {{ question_limit }}
+        </h1>
         <h1 class="text-5xl mb-7 text-black-500 font-bold">
           <span> {{ date_asked['event'] }} </span>
         </h1>
@@ -72,6 +90,9 @@
         </div>
       </div>
       <div v-else class="space-x-4">
+        <h1 class="text-2xl mb-7 text-black-500">
+          Question : {{ question_number }} / {{ question_limit }}
+        </h1>
         <h1 class="text-5xl mb-7 text-black-500 font-bold">
           <span> {{ date_asked['event'] }} </span>
         </h1>
@@ -86,6 +107,9 @@
         </div>
       </div>
     </div>
+    <span class="absolute bottom-10 right-10 text-4xl">
+      Score : {{ store.score }}
+    </span>
   </div>
 </template>
 
