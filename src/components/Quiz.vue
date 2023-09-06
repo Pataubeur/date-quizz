@@ -10,6 +10,7 @@
   let good_answer = false
   let question_number = 1
   const question_limit = 15
+  store.score = 0
 
   function submit() {
     checked.value = true
@@ -31,8 +32,8 @@
     date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
     checked.value = false
     answer.value = ''
-    if(question_number == question_limit) {
-      router.push('/')
+    if(question_number == question_limit+1) {
+      router.push('/score')
     }
     setTimeout(() => {
       focusNextInput();
