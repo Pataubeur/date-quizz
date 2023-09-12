@@ -10,6 +10,8 @@
   let good_answer = false
   let question_number = 1
   const question_limit = 15
+  let questions_asked : string[] = []
+  questions_asked.push(date_asked['event'])
   store.score = 0
 
   function submit() {
@@ -30,6 +32,13 @@
   function next() {
     question_number++
     date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
+    for (let i = 0; i < questions_asked.length ; i++) {
+      if(date_asked['event'] === questions_asked[i]) {
+        date_asked = date.dates[Math.floor(Math.random()*date.dates.length-1)]
+        i = 0
+      }
+    }
+    questions_asked.push(date_asked['event'])
     checked.value = false
     answer.value = ''
     if(question_number == question_limit+1) {
